@@ -1,0 +1,5 @@
+node_modules/
+firebaseFunctions/node_modules/
+firebaseFunctions/yarn.lock
+dist/
+yarn.lock
